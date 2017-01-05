@@ -11,3 +11,15 @@
 **Link to work:** For [#100DaysOfCode](https://github.com/randallfine/100daysofcode-projects)
                   For [Portfolio Site](https://randallfine.github.io/)
 
+### Day 0: January 4, 2017
+
+
+**Today's Progress**: Set up and started my wife's blog site built on nodeJS
+
+
+**Thoughts:** My wife wanted a blog/photography website built. I was more than happy to oblige.
+
+**Link to work:** For [#100DaysOfCode](https://github.com/randallfine/100daysofcode-projects)
+                  For [Portfolio Site](https://randallfine.github.io/)
+                  
+
