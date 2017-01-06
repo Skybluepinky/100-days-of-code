@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 3, 2017
+### Day 1: January 3, 2017
 
 
 **Today's Progress**: Worked on the AI for [FCC Tic Tac Toe.]( https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game)
@@ -11,7 +11,7 @@
 **Link to work:** For [#100DaysOfCode](https://github.com/randallfine/100daysofcode-projects)
                   For [Portfolio Site](https://randallfine.github.io/)
 
-### Day 0: January 4, 2017
+### Day 2: January 4, 2017
 
 
 **Today's Progress**: Set up and started my wife's blog site built on nodeJS
@@ -21,5 +21,16 @@
 
 **Link to work:** For [#100DaysOfCode](https://github.com/randallfine/100daysofcode-projects)
                   For [Portfolio Site](https://randallfine.github.io/)
+
+### Day 3: January 5, 2017
+
+
+**Today's Progress**: Worked on Tic Tac Toe AI
+
+
+**Thoughts:** It works better than it did. Still some bugs to iron out
+
+**Link to work:** For [#100DaysOfCode](https://github.com/randallfine/100daysofcode-projects)
+                  For [Portfolio Site](https://randallfine.github.io/)                  
                   
 
