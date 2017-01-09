@@ -31,6 +31,17 @@
 **Thoughts:** It works better than it did. Still some bugs to iron out
 
 **Link to work:** For [#100DaysOfCode](https://github.com/randallfine/100daysofcode-projects)
-                  For [Portfolio Site](https://randallfine.github.io/)                  
+                  For [Portfolio Site](https://randallfine.github.io/)  
+
+### Day 4: January 8, 2017
+
+
+**Today's Progress**: Worked on Tic Tac Toe AI
+
+
+**Thoughts:** Some improvments, some confusions. Happy to be back at it.
+
+**Link to work:** For [#100DaysOfCode](https://github.com/randallfine/100daysofcode-projects)
+                  For [Portfolio Site](https://randallfine.github.io/)                                    
                   
 
