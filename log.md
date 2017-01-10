@@ -42,6 +42,17 @@
 **Thoughts:** Some improvments, some confusions. Happy to be back at it.
 
 **Link to work:** For [#100DaysOfCode](https://github.com/randallfine/100daysofcode-projects)
-                  For [Portfolio Site](https://randallfine.github.io/)                                    
+                  For [Portfolio Site](https://randallfine.github.io/)
+
+### Day 5: January 9, 2017
+
+
+**Today's Progress**: Worked on Tic Tac Toe AI and begain converting weather app to node. Having my api keys on codepen is making me nervous.
+
+
+**Thoughts:** I feel I had a fairly productive day
+
+**Link to work:** For [#100DaysOfCode](https://github.com/randallfine/100daysofcode-projects)
+                  For [Portfolio Site](https://randallfine.github.io/)                                                      
                   
 
