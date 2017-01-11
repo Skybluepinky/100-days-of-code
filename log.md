@@ -53,6 +53,17 @@
 **Thoughts:** I feel I had a fairly productive day
 
 **Link to work:** For [#100DaysOfCode](https://github.com/randallfine/100daysofcode-projects)
+                  For [Portfolio Site](https://randallfine.github.io/)
+
+### Day 6: January 10, 2017
+
+
+**Today's Progress**: Worked on Tic Tac Toe AI 
+
+
+**Thoughts:** I did more staring at the screen than coding. To figure out how to get the game to win without a bunch of if or switch statments
+
+**Link to work:** For [#100DaysOfCode](https://github.com/randallfine/100daysofcode-projects)
                   For [Portfolio Site](https://randallfine.github.io/)                                                      
                   
 
