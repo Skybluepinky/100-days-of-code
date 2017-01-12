@@ -1,12 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 3, 2017
+### Day 1: January 10, 2017
 
 
-**Today's Progress**: Worked on the AI for [FCC Tic Tac Toe.]( https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game)
+**Today's Progress**: Worked on the initial Front End Developer Courses from FreeCodeCamp
 
 
-**Thoughts:** Felt like bashing my head into a wall...but in a good way. I feel I am using way too much code to accomplish this task. I need to clean up quite a bit of spaghetti code once I finish.
+**Thoughts:** I feel good about this, I know it will be a challenge to get myself to work on this for an hour after long days at work during the busy season, but I do want this. I've wanted this for a long time and now it is time for me to really put my wants into actions.
 
 **Link to work:** For [#100DaysOfCode](https://github.com/randallfine/100daysofcode-projects)
                   For [Portfolio Site](https://randallfine.github.io/)
