@@ -19,7 +19,7 @@
 
 **Link to work:**
 
-//
+<!--
 ### Day 3: January 5, 2017
 
 
@@ -64,4 +64,4 @@
 **Link to work:** For [#100DaysOfCode](https://github.com/randallfine/100daysofcode-projects)
                   For [Portfolio Site](https://randallfine.github.io/)                                                      
                   
-
+-->
