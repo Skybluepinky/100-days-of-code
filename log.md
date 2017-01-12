@@ -8,19 +8,16 @@
 
 **Thoughts:** I feel good about this, I know it will be a challenge to get myself to work on this for an hour after long days at work during the busy season, but I do want this. I've wanted this for a long time and now it is time for me to really put my wants into actions.
 
-**Link to work:** For [#100DaysOfCode](https://github.com/randallfine/100daysofcode-projects)
-                  For [Portfolio Site](https://randallfine.github.io/)
+**Link to work:**
 
-### Day 2: January 4, 2017
-
-
-**Today's Progress**: Set up and started my wife's blog site built on nodeJS
+### Day 2: January 11, 2017
 
 
-**Thoughts:** My wife wanted a blog/photography website built. I was more than happy to oblige.
+**Today's Progress**: Alright, Day 2! Learned to request user input and some HTML/CSS styling.😃 #100DaysOfCode #FreeCodeCamp
 
-**Link to work:** For [#100DaysOfCode](https://github.com/randallfine/100daysofcode-projects)
-                  For [Portfolio Site](https://randallfine.github.io/)
+**Thoughts:** I feel like I am speeding through. Makse sense as much of this stuff are things I have touched on at LaunchCode etc. The coolest thing I learned was how to collect user input directly from HTML. Seems much simpler than I imagined. It has me excited to move on.
+
+**Link to work:**
 
 ### Day 3: January 5, 2017
 
